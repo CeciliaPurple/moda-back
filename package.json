@@ -1,0 +1,13 @@
+{
+  "name": "moda-back",
+  "version": "1.0.0",
+  "main": "src/server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": ["Moda", "Fashion", "Desenvolvimento WEB", "Node.js", "Express"],
+  "author": "Maria Cecília Costa de Oliveira",
+  "license": "MIT",
+  "description": "Sistema de exemplo para curso de Técnico de Informática para Internet do IFSP, aplicando API",
+  "type": "module"
+}
